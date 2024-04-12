@@ -1,4 +1,4 @@
-#Get the logos xslx files from Github
+#Get the logos xslx file from Github
 library(httr)
 library(readxl)
 
